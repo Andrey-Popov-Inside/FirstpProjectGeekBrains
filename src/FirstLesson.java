@@ -1,6 +1,6 @@
 public class FirstLesson {
     public static void main(String[] args) {
-        printThreeWords();    // Втророе задание
+        printThreeWords();    // Второе задание
         checkSumSign();       // Третье задание
         printColor();         // Четвертое задание
         compareNumbers();     // Пятое задиние
@@ -10,7 +10,7 @@ public class FirstLesson {
         System.out.println("Orange");
         System.out.println("Banana");
         System.out.println("Apple");
-        }
+    }
     public static void checkSumSign() {      //метод checkSumSign() #3
         int a = 9;
         int b = 7;

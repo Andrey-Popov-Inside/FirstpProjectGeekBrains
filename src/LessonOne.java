@@ -1,6 +1,6 @@
 public class LessonOne {
     public static void main(String[] args) {
-        printThreeWords();    // Втророе задание
+        printThreeWords();    // Второе задание
         checkSumSign();       // Третье задание
         printColor();         // Четвертое задание
         compareNumbers();     // Пятое задиние
