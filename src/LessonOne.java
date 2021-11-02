@@ -1,4 +1,4 @@
-public class FirstLesson {
+public class LessonOne {
     public static void main(String[] args) {
         printThreeWords();    // Второе задание
         checkSumSign();       // Третье задание
@@ -41,7 +41,4 @@ public class FirstLesson {
         }
     }
 }
-
-
-
 
